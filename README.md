@@ -9,10 +9,10 @@
 </div>
 
 
+<br />
+
 - 🔭 I’m currently working on **[BidClips](https://bidclips.com/)**
-
 - 🌱 I’m currently learning **AWS**
-
 - 📫 How to reach me **9chauhanjagadish@gmail.com**
 
 
