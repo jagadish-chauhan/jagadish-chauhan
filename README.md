@@ -9,19 +9,34 @@
 </div>
 
 
-<br />
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on **[BidClips](https://bidclips.com/)**
-- 🌱 I’m currently learning **AWS**
-- 📫 How to reach me **9chauhanjagadish@gmail.com**
+&emsp; &emsp; 🔭 I’m currently working on **[BidClips](https://bidclips.com/)** \
+&emsp; &emsp; 🌱 I’m currently learning **AWS** \
+&emsp; &emsp; 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion. \
+&emsp; &emsp; 📫 How to reach me **9chauhanjagadish@gmail.com** 
 
-<br />
+
+
+### 🛠 &nbsp;Tech Stack
+
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
+
+
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/myjagadish" />
 </p>
 
-<br />
+
 
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
