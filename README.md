@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish-chauhan" /> </p>
 
 <div> <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=jagadish-chauhan&margin-w=10&no-bg=true" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=jagadish-chauhan&margin-w=10" />
 </p> </div>
 
 
