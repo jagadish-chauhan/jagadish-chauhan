@@ -18,31 +18,48 @@
 
 <img alt="Coding" src="https://github.com/jagadish-chauhan/jagadish-chauhan/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Languages and Tools
 
-&emsp; &emsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
-
-
+&emsp; &emsp; &emsp;   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) &nbsp; 
+&emsp; &emsp; &emsp;    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
+![Redux Saga](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999) &nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) &nbsp; 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp; 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) &nbsp; 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center" margin="5px">
+<a href="https://github.com/jagadish-chauhan">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadish-chauhan&show_icons=true&locale=en&layout=compact&langs_count=58" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagadish-chauhan&show_icons=true&locale=en&count_private=true" alt="jagadish-chauhan" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadish-chauhan&" alt="jagadish-chauhan" />  
+</a>
+</p>
 
 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/myjagadish" />
+  <a href="https://in.linkedin.com/in/myjagadish">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/myjagadish" />  
+  </a>  
 </p>
-
-
 
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
   <p  align="center">
     <img src="https://komarev.com/ghpvc/?username=jagadish-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish-chauhan" /> 
-  </p>
+  </p> 
+  
 
   ![Jagadish Chauhan](https://raw.githubusercontent.com/jagadish-chauhan/jagadish-chauhan/66fba4d3c6f3165043ee8cddcb95fa51d4feecc1/assets/bottom_header.svg)
 </p>
