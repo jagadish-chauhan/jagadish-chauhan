@@ -15,6 +15,11 @@
 - 🌱 I’m currently learning **AWS**
 - 📫 How to reach me **9chauhanjagadish@gmail.com**
 
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/myjagadish" />
+</p>
 
 <br />
 
@@ -28,3 +33,6 @@
 </p>
 
 <br>
+
+
+
