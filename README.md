@@ -54,7 +54,11 @@
   </a>  &nbsp; &nbsp;
   <a href="https://www.instagram.com/jagdish.chauhan17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  &nbsp; &nbsp;
+  <a href="https://www.buymeacoffee.com/jagadishchauhan">
+    <img src="https://img.shields.io/badge/Buymeacoffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
+    
 </p>
 
 <p align="center">
