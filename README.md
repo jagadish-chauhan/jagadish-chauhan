@@ -2,11 +2,11 @@
 
 <h3 align="center"/>Full Stack Developer at Greycell Pvt. Ltd.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadish-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish-chauhan" /> </p>
-
-<div> <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=jagadish-chauhan&margin-w=10" />
-</p> </div>
+<div> 
+  <p align="center">
+    <img alig src="https://github-profile-trophy.vercel.app/?username=jagadish-chauhan&margin-w=10" />
+  </p> 
+</div>
 
 
 - 🔭 I’m currently working on **[BidClips](https://bidclips.com/)**
@@ -15,3 +15,16 @@
 
 - 📫 How to reach me **9chauhanjagadish@gmail.com**
 
+
+<br />
+
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+  <p  align="center">
+    <img src="https://komarev.com/ghpvc/?username=jagadish-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jagadish-chauhan" /> 
+  </p>
+
+  ![Jagadish Chauhan](https://raw.githubusercontent.com/jagadish-chauhan/jagadish-chauhan/66fba4d3c6f3165043ee8cddcb95fa51d4feecc1/assets/bottom_header.svg)
+</p>
+
+<br>
