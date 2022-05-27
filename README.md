@@ -16,7 +16,7 @@
 &emsp; &emsp; 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion. \
 &emsp; &emsp; 📫 How to reach me **9chauhanjagadish@gmail.com** 
 
-<img alt="Coding" src="https://github.com/jagadish-chauhan/jagadish-chauhan/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
+<!-- <img alt="Coding" src="https://github.com/jagadish-chauhan/jagadish-chauhan/blob/main/assets/Night-Coding.gif?raw=true" align="right"/> -->
 
 ### 🛠 &nbsp; Languages and Tools
 
